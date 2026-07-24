@@ -1,4 +1,4 @@
-Aama ma 😄 **Full `README.md` content** below irukku. GitHub-la **README.md** file create panni, idha full-ah copy-paste pannidu 👇
+
 
 ````markdown
 # Alfido Tech Customer Transaction & Behavior Analysis
